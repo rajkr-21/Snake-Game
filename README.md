@@ -1,6 +1,6 @@
 # Snake Game 🐍
 
-A simple Snake game built using **HTML, CSS, and JavaScript** — no frameworks or libraries, just the basics.
+A simple Snake game built using **HTML, CSS, and JavaScript** — no frameworks or libraries, just the basics. This is the game we all have played and enjoyed in our childhood.
 
 ## Demo
 
@@ -25,7 +25,7 @@ Open `index.html` in your browser and start playing!
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla, no libraries)
+- JavaScript
 
 ## How to Run
 
@@ -53,18 +53,19 @@ snake-game/
 
 ## How It Works
 
-- The game board is a CSS grid (25 columns x 25 rows)
-- The snake's position is tracked as an array of `[x, y]` coordinates
-- Every 150ms, the game loop moves the snake, checks for collisions, and re-renders the board
-- Eating food increases the score and grows the snake
-- Hitting a wall or the snake's own body ends the game
+- The game board is a CSS grid (25 columns x 25 rows).
+- The snake's position is tracked as an array of `[x, y]` coordinates.
+- Every 150ms, the game loop moves the snake, checks for collisions, and re-renders the board.
+- Eating food increases the score and grows the snake.
+- Hitting a wall or the snake's own body ends the game.
 
 ## Future Improvements
 
-- [ ] Add a pause button
-- [ ] Add difficulty levels (speed control)
-- [ ] Store high score using local storage
-- [ ] Add sound effects
+- [ ] Improve the UI.
+- [ ] Add a pause button.
+- [ ] Add difficulty levels (speed control).
+- [ ] Store Game History using local storage.
+- [ ] Add sound effects.
 
 ## License
 
