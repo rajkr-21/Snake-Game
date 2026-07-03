@@ -4,7 +4,7 @@ A simple Snake game built using **HTML, CSS, and JavaScript** — no frameworks 
 
 ## Demo
 
-Open `index.html` in your browser and start playing!
+https://rajkr-21.github.io/Snake-Game/
 
 ## Features
 
