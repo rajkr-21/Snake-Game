@@ -1,6 +1,6 @@
 # Snake Game 🐍
 
-A simple Snake game built using **HTML, CSS, and JavaScript** — no frameworks or libraries, just the basics. This is the game we all have played and enjoyed in our childhood.
+A simple Snake game built using **HTML, CSS, and JavaScript**. This is the game we all have played and enjoyed in our childhood.
 
 ## Demo
 
